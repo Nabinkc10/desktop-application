@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LUNAR", "LUNAR\LUNAR.csproj", "{5EE31A39-87FD-45E0-8E01-450397C44D05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LUNAR_Business_Framework", "LUNAR_Business_Framework\LUNAR_Business_Framework.csproj", "{184AF369-5CFC-4F63-89D7-8AFB5EC7AC77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LUNAR_Data_Framework", "LUNAR_Data_Framework\LUNAR_Data_Framework.csproj", "{9A8C5DE1-6F62-4FAF-A723-52893C0D4FCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EE31A39-87FD-45E0-8E01-450397C44D05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EE31A39-87FD-45E0-8E01-450397C44D05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EE31A39-87FD-45E0-8E01-450397C44D05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EE31A39-87FD-45E0-8E01-450397C44D05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{184AF369-5CFC-4F63-89D7-8AFB5EC7AC77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{184AF369-5CFC-4F63-89D7-8AFB5EC7AC77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{184AF369-5CFC-4F63-89D7-8AFB5EC7AC77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{184AF369-5CFC-4F63-89D7-8AFB5EC7AC77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A8C5DE1-6F62-4FAF-A723-52893C0D4FCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A8C5DE1-6F62-4FAF-A723-52893C0D4FCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A8C5DE1-6F62-4FAF-A723-52893C0D4FCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A8C5DE1-6F62-4FAF-A723-52893C0D4FCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {07AFEA7A-346D-4399-A994-A9BBA3039D0D}
+	EndGlobalSection
+EndGlobal
